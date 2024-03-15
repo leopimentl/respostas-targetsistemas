@@ -23,4 +23,4 @@
   
 - Agora basta ir em uma sala diferente e repetir o procedimento e obter a resposta que falta.
 
-5°) <code><a href="https://github.com/leopimentl/respostas-targetsistemas/blob/main/respostas/InverterString.java"> Fibonacci </a></code>
+5°) <code><a href="https://github.com/leopimentl/respostas-targetsistemas/blob/main/respostas/InverterString.java"> Inverter Strings </a></code>
